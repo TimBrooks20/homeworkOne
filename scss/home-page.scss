@@ -1,0 +1,56 @@
+.home-hero {
+    height: 800px;
+    width: 100%;
+    background-image: url('../images/bear.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   margin-top: 50px;
+
+   h1 {
+        color: white;
+        text-align: center;
+        padding-top: 300px;
+        font-size: 50px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+   }
+}
+
+.home-content {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px; 
+    .p1 {
+        height: 300px;
+        width: 400px;
+        background-color: darkolivegreen;
+        
+        p {
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    }
+    .p2 {
+        height: 300px;
+        width: 400px;
+        background-color: darkolivegreen;
+        
+        p {
+            color: white;
+            text-align: center;
+            line-height: 50px;
+        }
+    }
+    .p3 {
+        height: 300px;
+        width: 400px;
+        background-color: darkolivegreen;
+        
+        p {
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    }
+}

@@ -1,0 +1,34 @@
+.brown-bears-hero {
+    height: 800px;
+    width: 1000px;
+    background-image: url('../images/bear4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+   h1 {
+        color: white;
+        text-align: center;
+        padding-top: 350px;
+        font-size: 50px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+   }
+}
+
+.brown-bears-content {
+    height: 450px;
+    width: 800px;
+    background-color: darkolivegreen;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    p {
+        color: white;
+        text-align: center;
+        padding: 10px;
+        
+    }
+}
